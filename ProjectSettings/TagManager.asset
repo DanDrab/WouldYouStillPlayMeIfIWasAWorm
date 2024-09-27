@@ -4,11 +4,15 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< Updated upstream
   - Wall
   - H
   - J
   - K
   - L
+=======
+  - prechod
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
