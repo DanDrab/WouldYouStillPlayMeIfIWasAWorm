@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9db54a88e8e483c49ad57241f2ae6f02
+guid: 1a61a62a3588d094b9e19aaff0702161
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -33,9 +33,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: thepozichka
-      takeName: thepozichka
-      internalID: -7630617929443863273
+      name: BITCH1_POZA1_T
+      takeName: BITCH1_POZA1_T
+      internalID: -8329510996888684051
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0
@@ -62,9 +62,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: the_bezenicko
-      takeName: the_bezenicko
-      internalID: 5646048239159614280
+      name: BITCH1_RUNNING
+      takeName: BITCH1_RUNNING
+      internalID: 7980157737020448249
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0
@@ -91,11 +91,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: typka_jedna|TYPKA_BEZI
-      takeName: typka_jedna|TYPKA_BEZI
-      internalID: -7593699133035649908
+      name: BITCH1_POZA2_ROZSTEP
+      takeName: BITCH1_POZA2_ROZSTEP
+      internalID: -1055353618663341075
       firstFrame: 0
-      lastFrame: 36
+      lastFrame: 31
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -120,11 +120,40 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: typka_jedna|TYPKA_poza_1
-      takeName: typka_jedna|TYPKA_poza_1
-      internalID: -5829475826041489124
+      name: BITCH1_POZA4_KRAB
+      takeName: BITCH1_POZA4_KRAB
+      internalID: -8989286963406752873
       firstFrame: 0
-      lastFrame: 36
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BITCH1_POZA3_HANG
+      takeName: BITCH1_POZA3_HANG
+      internalID: 740848071680403116
+      firstFrame: 0
+      lastFrame: 15
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
