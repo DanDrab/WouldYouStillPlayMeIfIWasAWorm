@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - prechod
+  - Wall
+  - H
+  - L
+  - J
+  - K
+  - prechod2
+  - prechod1
+  - prechod3
   layers:
   - Default
   - TransparentFX
