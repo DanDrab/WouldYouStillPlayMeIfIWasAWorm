@@ -13,6 +13,7 @@ TagManager:
   - prechod2
   - prechod1
   - prechod3
+  - konec
   layers:
   - Default
   - TransparentFX
